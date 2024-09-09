@@ -26,12 +26,81 @@ All Fabric patterns can be found here: [Fabric Patterns](https://github.com/dani
 
 - [create_coding_project](./fabric/create_coding_project/system-v1.md): Generate coding project ideas
 
+- [create_command](./fabric/create_command/system-v1.md):  tool, present a goal you want to accomplish and generate a command that uses that tool to accomplish the goal.
+
+- [create_git_diff_commit](./fabric/create_git_diff_commit/system-v1.md): Generate git diff and commit message
+
+- [create_idea_compass](./fabric/create_idea_compass/system-v1.md): Generate a compass for an idea.
+
+- [create_micro_summary](./fabric/create_micro_summary/system-v1.md): Generate a micro summary of an idea.
+
+- [create_pattern](./fabric/create_pattern/system-v1.md): Generate a Fabric pattern.
+
+- [create_quiz](./fabric/create_quiz/system-v1.md): Help create quizzes on a given subject.
+
+- [create_reading_plan](./fabric/create_reading_plan/system-v1.md): Generate a reading plan.
+
+- [create_show_intro](./fabric/create_show_intro/system-v1.md): Generate a show introduction.
+
+- [create_story_explanation](./fabric/create_story_explanation/system-v1.md): Generate a story explanation.
+
+- [create_summary](./fabric/create_summary/system-v1.md): Generate a summary of an idea.
+
+- [create_tags](./fabric/create_tags/system-v1.md): Generate tags for an idea.
+
+- [create_video_chapters](./fabric/create_video_chapters/system-v1.md): Generate a video chapters.
+
+- [create_visualization](./fabric/create_visualization/system-v1.md): Generate a visualization.
+
+- [explain_code](./fabric/explain_code/system-v1.md): Explain a code
+
+- [explain_docs](./fabric/explain_docs/system-v1.md): Explain a doc.
+
+- [explain_math](./fabric/explain_math/system-v1.md): Explain a math.
+
+- [explain_project](./fabric/explain_project/system-v1.md): Explain a project
+
+- [explain_terms](./fabric/explain_terms/system-v1.md): Explain a term.
+
+- [extract_article_wisdom](./fabric/extract_article_wisdom/system-v1.md): Extract article wisdom from an article.
+
+- [extract_book_ideas](./fabric/extract_book_ideas/system-v1.md): Extract ideas from a book.
+
+- [extract_book_recommendations](./fabric/extract_book_recommendations/system-v1.md): Extract book recommendations from a book.
+
+- [extract_business_ideas](./fabric/extract_business_ideas/system-v1.md): Extract business ideas.
+
+- [extract_controversial_ideas](./fabric/extract_controversial_ideas/system-v1.md): Extract controversial ideas from a input.
+
+- [extract_extraordinary_claims](./fabric/extract_extraordinary_claims/system-v1.md): Extract extraordinary claims from a input.
+
+- [extract_ideas](./fabric/extract_ideas/system-v1.md): Extract ideas from a input.
+
+- [extract_insights](./fabric/extract_insights/system-v1.md): Extract insights from a text.
+
+- [extract_instructions](./fabric/extract_instructions/system-v1.md): Extract instructions from a educational video scripts.
+
+- [extract_jokes](./fabric/extract_jokes/system-v1.md): Extract jokes from a input.
+
+- [extract_main_idea](./fabric/extract_main_idea/system-v1.md): Extract main idea from a input.
+
+- [extract_patterns](./fabric/extract_patterns/system-v1.md): Extract patterns from a data.
+
+- [extract_predictions](./fabric/extract_predictions/system-v1.md): Extract predictions from a input.
+
+- [extract_primary_problems](./fabric/extract_primary_problems/system-v1.md): Extract primary problems from a input.
+
 # Prompts (Custom)
+
+- [custom_expert_software_engineer](./custom/custom_expert_software_engineer/system-v1.md)
+
+- [custom_storyteller_joseon_dynasty](./custom/custom_storyteller_joseon_dynasty/system-v1.md)
+
+- [custom_translator](./custom/custom_translator/system-v1.md)
 
 # Prompting Guides
 
 - [claude](./guides/claude/claude_prompting_guide.md)
-  - [claude.ko](./guides/claude/claude_prompting_guide.ko.md)
 
 # Templates
 
