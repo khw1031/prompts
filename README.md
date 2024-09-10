@@ -156,12 +156,16 @@ How to using Fabric custom patterns can be found here: [How to Create Custom Fab
 
 - [custom_storyteller_joseon_dynasty](./custom/custom_storyteller_joseon_dynasty/system-v1.md)
 
+- [custom_tags](./custom/custom_tags/system-v1.md)
+
 - [custom_translator](./custom/custom_translator/system-v1.md)
 
 
 # Prompting Guides
 
+- [prompt guide](./guides/README.md)
 - [claude](./guides/claude/claude_prompting_guide.md)
+- [openai](./guides/openai/openai_prompt_guide.md)
 
 # Workflows
 
