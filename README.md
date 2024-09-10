@@ -148,9 +148,7 @@ All Fabric patterns can be found here: [Fabric Patterns](https://github.com/dani
 
 # Prompts (Custom)
 
-How to using Fabric custom patterns can be found here:
-  - [How to Create Custom Fabric Patterns](https://www.youtube.com/watch?v=JgsGH5IOCFE)
-  - [Using Fabric custom patterns](./custom/README.md)
+How to using Fabric custom patterns can be found here: [How to Create Custom Fabric Patterns](https://www.youtube.com/watch?v=JgsGH5IOCFE), [Using Fabric custom patterns](./custom/README.md)
 
 - [custom_expert_software_engineer](./custom/custom_expert_software_engineer/system-v1.md)
 
@@ -164,6 +162,8 @@ How to using Fabric custom patterns can be found here:
 # Prompting Guides
 
 - [claude](./guides/claude/claude_prompting_guide.md)
+
+# Workflows
 
 # Templates
 
