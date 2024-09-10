@@ -150,6 +150,8 @@ All Fabric patterns can be found here: [Fabric Patterns](https://github.com/dani
 
 How to using Fabric custom patterns can be found here: [How to Create Custom Fabric Patterns](https://www.youtube.com/watch?v=JgsGH5IOCFE), [Using Fabric custom patterns](./custom/README.md)
 
+- [custom_create_workflow](./custom/custom_create_workflow/system-v1.md)
+
 - [custom_expert_software_engineer](./custom/custom_expert_software_engineer/system-v1.md)
 
 - [custom_simple_anwser](./custom/custom_simple_answer/system-v1.md)
