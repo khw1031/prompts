@@ -169,6 +169,8 @@ How to using Fabric custom patterns can be found here: [How to Create Custom Fab
 
 # Workflows
 
+- [consume_document](./workflow/consume_document.workflow.md)
+
 # Templates
 
 - [default](./templates/default.md)
