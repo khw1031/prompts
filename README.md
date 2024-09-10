@@ -90,13 +90,76 @@ All Fabric patterns can be found here: [Fabric Patterns](https://github.com/dani
 
 - [extract_primary_problems](./fabric/extract_primary_problems/system-v1.md): Extract primary problems from a input.
 
+- [extract_questions](./fabric/extract_questions/system-v1.md): Extract questions from a input.
+
+- [extract_recommendations](./fabric/extract_recommendations/system-v1.md): Extract recommendations from a input.
+
+- [extract_references](./fabric/extract_references/system-v1.md): Extract references from a input.
+
+- [extract_wisdom](./fabric/extract_wisdom/system-v1.md): Extract wisdom from a input.
+
+- [extract_wisdom_agents](./fabric/extract_wisdom_agents/system-v1.md): Extract wisdom from a input using multiple AI agents.
+
+- [improve_prompt](./fabric/improve_prompt/system-v1.md): Improve a prompt.
+
+- [improve_writing](./fabric/improve_writing/system-v1.md): Improve writing.
+
+- [label_and_rate](./fabric/label_and_rate/system-v1.md): Label and rate a text.
+
+- [official_pattern_template](./fabric/official_pattern_template/system-v1.md): Create official Fabric pattern template.
+
+- [provide_guidance](./fabric/provide_guidance/system-v1.md): Provide guidance.
+
+- [rate_content](./fabric/rate_content/system-v1.md): Rate content.
+
+- [rate_value](./fabric/rate_value/system-v1.md): Rate value of the content.
+
+- [raw_query](./fabric/raw_query/system-v1.md): Yields the best possible result given the input.
+
+- [suggest_pattern](./fabric/suggest_pattern/system-v1.md): Suggest a pattern.
+
+- [summarize](./fabric/summarize/system-v1.md): Summarize.
+
+- [summarize_debate](./fabric/summarize_debate/system-v1.md): Summarize debate.
+
+- [summarize_git_changes](./fabric/summarize_git_changes/system-v1.md): Summarize git changes.
+
+- [summarize_git_diff](./fabric/summarize_git_diff/system-v1.md): Summarize git diff.
+
+- [summarize_lecture](./fabric/summarize_lecture/system-v1.md): Summarize lecture.
+
+- [summarize_legislation](./fabric/summarize_legislation/system-v1.md): Summarize legislation.
+
+- [summarize_micro](./fabric/summarize_micro/system-v1.md): Summarize micro.
+
+- [summarize_paper](./fabric/summarize_paper/system-v1.md): Summarize paper.
+
+- [summarize_prompt](./fabric/summarize_prompt/system-v1.md): Summarize prompt.
+
+- [summarize_pull-requests](./fabric/summarize_pull-requests/system-v1.md): Summarize pull-requests.
+
+- [to_flashcards](./fabric/to_flashcards/system-v1.md): To flashcards.
+
+- [write_essay](./fabric/write_essay/system-v1.md): Write essay.
+
+- [write_micro_essay](./fabric/write_micro_essay/system-v1.md): Write micro essay.
+
+- [write_pull-request](./fabric/write_pull-request/system-v1.md): Write pull-request.
+
 # Prompts (Custom)
 
+How to using Fabric custom patterns can be found here:
+  - [How to Create Custom Fabric Patterns](https://www.youtube.com/watch?v=JgsGH5IOCFE)
+  - [Using Fabric custom patterns](./custom/README.md)
+
 - [custom_expert_software_engineer](./custom/custom_expert_software_engineer/system-v1.md)
+
+- [custom_simple_anwser](./custom/custom_simple_answer/system-v1.md)
 
 - [custom_storyteller_joseon_dynasty](./custom/custom_storyteller_joseon_dynasty/system-v1.md)
 
 - [custom_translator](./custom/custom_translator/system-v1.md)
+
 
 # Prompting Guides
 
