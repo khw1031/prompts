@@ -154,6 +154,8 @@ How to using Fabric custom patterns can be found here: [How to Create Custom Fab
 
 - [custom_expert_software_engineer](./custom/custom_expert_software_engineer/system-v1.md)
 
+- [custom_harmon_circle](./custom/custom_harmon_circle/system-v1.md)
+
 - [custom_simple_anwser](./custom/custom_simple_answer/system-v1.md)
 
 - [custom_storyteller_joseon_dynasty](./custom/custom_storyteller_joseon_dynasty/system-v1.md)
